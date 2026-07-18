@@ -1,0 +1,11 @@
+discord_token = ""
+discord_id = ""
+super_debug = "no"
+cpu_or_gpu = "auto"
+max_ips = 8
+long_press_star_drop = "yes"
+emulator_port = 5037
+api_base_url = "default"
+brawl_stars_package = "com.supercell.brawlstars"
+brawl_stars_width = 1920
+brawl_stars_height = 1080

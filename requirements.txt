@@ -1,0 +1,8 @@
+discord.py>=2.3,<3.0
+opencv-python>=4.8,<5.0
+numpy>=1.24,<3.0
+av>=9.0,<18.0
+onnxruntime>=1.19,<2.0
+adbutils>=2.0,<3.0
+toml>=0.10,<1.0
+requests>=2.31,<3.0

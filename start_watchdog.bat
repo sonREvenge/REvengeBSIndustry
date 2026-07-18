@@ -1,0 +1,3 @@
+@echo off
+echo [BlueStacks Watchdog] Starting...
+powershell -ExecutionPolicy Bypass -File "%~dp0kill_hung_bluestacks.ps1"

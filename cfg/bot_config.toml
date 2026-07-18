@@ -1,0 +1,16 @@
+bot_uses_gadgets  = "yes"
+play_again_on_win = "no"
+
+minimum_movement_delay      = 0.1
+unstuck_movement_delay      = 3.0
+unstuck_movement_hold_time  = 1.5
+
+seconds_to_hold_attack_after_reaching_max = 1.5
+
+wall_detection_confidence   = 0.9
+entity_detection_confidence = 0.6
+wall_model_classes          = ["wall", "bush", "close_bush"]
+
+gadget_pixels_minimum      = 1300.0
+hypercharge_pixels_minimum = 2000.0
+super_pixels_minimum       = 2400.0
